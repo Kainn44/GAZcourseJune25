@@ -1,0 +1,5 @@
+E:\Labfiles\Lab 1\Ex1\Starter\GAZ.CSC2022 .testconsole\GAZ.CSC2022 .testconsole\bin\Debug\GAZ.CSC2022.testconsole.exe
+E:\Labfiles\Lab 1\Ex1\Starter\GAZ.CSC2022 .testconsole\GAZ.CSC2022 .testconsole\bin\Debug\GAZ.CSC2022.testconsole.pdb
+E:\Labfiles\Lab 1\Ex1\Starter\GAZ.CSC2022 .testconsole\GAZ.CSC2022 .testconsole\obj\x86\Debug\GAZ.CSC2022.testconsole.exe
+E:\Labfiles\Lab 1\Ex1\Starter\GAZ.CSC2022 .testconsole\GAZ.CSC2022 .testconsole\obj\x86\Debug\GAZ.CSC2022.testconsole.pdb
+E:\Labfiles\Lab 1\Ex1\Starter\GAZ.CSC2022 .testconsole\GAZ.CSC2022 .testconsole\obj\x86\Debug\GAZ.CSC2022 .testconsole.csprojResolveAssemblyReference.cache

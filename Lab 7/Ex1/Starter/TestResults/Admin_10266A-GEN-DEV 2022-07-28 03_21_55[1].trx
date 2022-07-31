@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="fc54028c-f8cf-4214-b4bb-6304bd97e3ec" name="Admin@10266A-GEN-DEV 2022-07-28 03:21:55" runUser="10266A-GEN-DEV\Admin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="63150442-023f-4362-ac0f-2805b5a9e2b5">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Admin_10266A-GEN-DEV 2022-07-28 03_21_55[1]">
+      <DeploymentItem filename="E:\Labfiles\Lab 7\Ex1\Starter\StressTest\bin\Debug\StressTest.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2022-07-28T03:21:55.7008359-07:00" queuing="2022-07-28T03:21:55.7223203-07:00" start="2022-07-28T03:21:55.7262265-07:00" finish="2022-07-28T03:21:55.8307187-07:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="PerformStressTestTest" storage="e:\labfiles\lab 7\ex1\starter\stresstest unit test project\bin\debug\module 7 unit test project.dll" id="bbdebe19-d9b1-54e0-0b83-827f9b576015">
+      <Execution id="c15eaa9f-754c-4087-aaee-6a53d0fe777d" />
+      <TestMethod codeBase="E:/Labfiles/Lab 7/Ex1/Starter/StressTest Unit Test Project/bin/Debug/Module 7 Unit Test Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Module_7_Unit_Test_Project.StressTestCaseTest, Module 7 Unit Test Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PerformStressTestTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="bbdebe19-d9b1-54e0-0b83-827f9b576015" executionId="c15eaa9f-754c-4087-aaee-6a53d0fe777d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c15eaa9f-754c-4087-aaee-6a53d0fe777d" testId="bbdebe19-d9b1-54e0-0b83-827f9b576015" testName="PerformStressTestTest" computerName="10266A-GEN-DEV" duration="00:00:00.0084182" startTime="2022-07-28T03:21:55.7330625-07:00" endTime="2022-07-28T03:21:55.8199765-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c15eaa9f-754c-4087-aaee-6a53d0fe777d">
+    </UnitTestResult>
+  </Results>
+</TestRun>
